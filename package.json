@@ -1,5 +1,5 @@
 {
-  "name": "chicatanas-mini-sumo",
+  "name": "pagina-web",
   "version": "1.0.0",
   "private": true,
   "homepage": "https://tu-usuario.github.io/nombre-del-repo",
@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^5.0.0",
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "vite": "^5.0.0"
   }
 }
